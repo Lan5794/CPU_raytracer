@@ -1,4 +1,0 @@
-﻿  main.cpp
-C:\Users\sheep\Downloads\.vs\软光追渲染器\软光追渲染器\main.cpp(271,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-C:\Users\sheep\Downloads\.vs\软光追渲染器\软光追渲染器\main.cpp(278,14): warning C4305: “初始化”: 从“double”到“float”截断
-  软光追渲染器.vcxproj -> C:\Users\sheep\Downloads\.vs\软光追渲染器\x64\Debug\软光追渲染器.exe
